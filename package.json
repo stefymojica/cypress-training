@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  },
+  "name": "cypress-training",
+  "description": "This is a Workshop about Cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefymojica/cypress-training.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Stefany Mojica <stefymojica40@gmail.com> (stefymojica)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefymojica/cypress-training/issues"
+  },
+  "homepage": "https://github.com/stefymojica/cypress-training#readme"
+}
