@@ -7,11 +7,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {
-    "cypress": "^10.3.0"
+    "cypress": "^10.3.0",
+    "prettier": "^2.7.1"
   },
   "scripts": {
     "test": "cypress open",
-    "test:open": "cypress open"
+    "test:open": "cypress open",
+    "format": "prettier --write ."
   },
   "repository": {
     "type": "git",
