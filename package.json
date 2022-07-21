@@ -12,7 +12,7 @@
     "prettier": "^2.7.1"
   },
   "scripts": {
-    "test": "cypress open",
+    "test": "cypress run",
     "test:open": "cypress open",
     "format": "prettier --write ."
   },
