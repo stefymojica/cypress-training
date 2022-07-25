@@ -16,7 +16,7 @@ jobs:
           cache: "yarn"
 
       - name: Install
-        run: yarn ci
+        run: yarn
 
       - name: Code style
         run: yarn lint
