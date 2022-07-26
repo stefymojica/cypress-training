@@ -16,7 +16,7 @@ jobs:
           cache: "yarn"
 
       - name: Install
-        run: yarn 
+        run: yarn install --frozen-lockfile
 
       - name: Code style
         run: yarn lint
