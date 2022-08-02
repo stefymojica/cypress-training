@@ -11,6 +11,7 @@ module.exports = {
   },
   plugins: ["@typescript-eslint", "cypress"],
   rules: {
+    "indent": "off",
     "quotes": ["error", "double"],
     "cypress/no-assigning-return-values": "error",
     "cypress/no-unnecessary-waiting": "error",

@@ -1,5 +1,6 @@
 {
   "singleQuote": false,
-  "quoteProps": "consistent",
-  "bracketSpacing": false
+  "quoteProps": "preserve",
+  "bracketSpacing": false,
+  "trailingComma": "all"
 }
